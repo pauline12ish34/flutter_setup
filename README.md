@@ -15,3 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # flutter_setup
+
+## Screen shots of the phone test(android sony)
+<img width="328" height="740" alt="image" src="https://github.com/user-attachments/assets/cc02ddfc-9cdf-4d19-8ac5-7a982b900425" />
+
